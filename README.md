@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Jander Gomez Barrueta</h1>
+<h1 align="center">Hola 👋, Soy Jander Gomez</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jander1016&label=Vistas%20Perfil&color=0e75b6&style=flat" alt="jander1016" /> </p>
