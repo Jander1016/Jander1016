@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jander1016&label=Vistas%20Perfil&color=0e75b6&style=flat" alt="jander1016" /> </p>
 
-
+<p align="center"> <img src="programming.gif" alt="programming"  height="400" width="500" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
