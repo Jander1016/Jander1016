@@ -9,7 +9,7 @@
 <p align="justify">Hola, soy Jander, Desarrollador Web Full Stack con formación en Front end, Back end y Bases de datos. En este hermoso mundo del desarrollo web un área que me apasiona.</p>
 <p align="justify">Me considero una persona honesta, autodidacta, persistente, con capacidad para trabajar individualmente y en equipo, resolución de problemas, teniendo en cuenta el análisis de los mismos para encontrar soluciones y ejecutar las más idóneas, comprometido, orientado a objetivos, siempre abierto a seguir aprendiendo constantemente.</p>
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
+<h2 align="left">🛠️ Lenguajes y Frameworks:</h2>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
