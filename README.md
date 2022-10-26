@@ -5,6 +5,10 @@
 
 <p align="center"> <img src="programming.gif" alt="programming"  height="400" width="500" /> </p>
 
+<h2 align="left">👨🏻‍💻 Acerca de  mi:</h2>
+<p align="left">Hola, soy Jander, Desarrollador Web Full Stack con formación en Front end, Back end y Bases de datos. En este hermoso mundo del desarrollo web un área que me apasiona.</p>
+<p align="left">Me considero una persona honesta, autodidacta, persistente, con capacidad para trabajar individualmente y en equipo, resolución de problemas, teniendo en cuenta el análisis de los mismos para encontrar soluciones y ejecutar las más idóneas, comprometido, orientado a objetivos, siempre abierto a seguir aprendiendo constantemente.</p>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
