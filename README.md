@@ -6,7 +6,11 @@
 <p align="center"> <img src="programming.gif" alt="programming"  height="400" width="500" /> </p>
 
 <h2 align="left">👨🏻‍💻 Acerca de  mi:</h2>
-<p align="justify">Hola, soy Jander, Desarrollador Web Full Stack con formación en Front end, Back end y Bases de datos. En este hermoso mundo del desarrollo web un área que me apasiona.</p>
+<p align="justify">Soy un Desarrollador Web Full Stack apasionado con una sólida formación en Front end, Back end y Bases de Datos. Mi fascinación por el desarrollo web me impulsa a mantenerme actualizado y a ser un aprendiz constante.
+
+Me destaco por mi honestidad, autodidactismo y persistencia. Mi capacidad para trabajar en equipo, analizar problemas y ofrecer soluciones eficientes es clave para enfrentar desafíos con determinación. 
+
+Soy proactivo, autodidacta y poseo habilidades analíticas que aplico tanto en la resolución de problemas como en la escritura de código. La búsqueda constante de aprendizaje es esencial para mi desarrollo profesional. Creo firmemente en la importancia de mantenerse actualizado en un entorno tecnológico en constante evolución.</p>
 <p align="justify">Me considero una persona honesta, autodidacta, persistente, con capacidad para trabajar individualmente y en equipo, resolución de problemas, teniendo en cuenta el análisis de los mismos para encontrar soluciones y ejecutar las más idóneas, comprometido, orientado a objetivos, siempre abierto a seguir aprendiendo constantemente.</p>
 
 <h2 align="left">🛠️ Lenguajes y Frameworks:</h2>
