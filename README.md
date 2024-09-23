@@ -6,9 +6,13 @@
 <p align="center"> <img src="programming.gif" alt="programming"  height="400" width="500" /> </p>
 
 <h2 align="left">👨🏻‍💻 Acerca de  mi:</h2>
-<p align="justify">Soy un Desarrollador Web Full Stack con experiencia en Frontend, Backend y bases de datos (JavaScript, React, Node.js, SQL, Git). 
+<p align="justify">Soy un Desarrollador Web Full Stack con experiencia en la creación de aplicaciones tanto en el frontend como en el backend. Me especializo en tecnologías como JavaScript, React, NextJS, Node.js, NestJS, y bases de datos SQL y NoSQL. Me motiva resolver problemas mediante soluciones prácticas y eficientes, aplicando siempre buenas prácticas de desarrollo y fomentando la colaboración en equipo.
 
-Me destaco ser proactivo, autodidacta y analítico, resuelvo problemas eficazmente. Manejo metodologías ágiles como SCRUM, busco optimizar procesos y mejorar la eficiencia para el éxito del equipo.</p>
+Me esfuerzo continuamente por mejorar mis habilidades, manteniéndome al día con las últimas tendencias tecnológicas. Valoro especialmente la creación de código limpio, que optimice los procesos y mejore la eficiencia. Además, considero que una comunicación fluida dentro del equipo es clave para el éxito de cualquier proyecto.
+
+También colaboro activamente con organizaciones sin ánimo de lucro, compartiendo mis conocimientos para ayudar a otras personas a desarrollarse y crecer profesionalmente.
+
+</p>
 
 <h2 align="left">🛠️ Lenguajes y Frameworks:</h2>
 
