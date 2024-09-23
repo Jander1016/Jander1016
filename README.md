@@ -6,11 +6,9 @@
 <p align="center"> <img src="programming.gif" alt="programming"  height="400" width="500" /> </p>
 
 <h2 align="left">👨🏻‍💻 Acerca de  mi:</h2>
-<p align="justify">Soy un Desarrollador Web Full Stack apasionado con una sólida formación en Front end, Back end y Bases de Datos. Mi fascinación por el desarrollo web me impulsa a mantenerme actualizado y a ser un aprendiz constante.
+<p align="justify">Soy un Desarrollador Web Full Stack con experiencia en Frontend, Backend y bases de datos (JavaScript, React, Node.js, SQL, Git). 
 
-Me destaco por mi honestidad, autodidactismo y persistencia. Mi capacidad para trabajar en equipo, analizar problemas y ofrecer soluciones eficientes es clave para enfrentar desafíos con determinación. 
-
-Soy proactivo, autodidacta y poseo habilidades analíticas que aplico tanto en la resolución de problemas como en la escritura de código. La búsqueda constante de aprendizaje es esencial para mi desarrollo profesional. Creo firmemente en la importancia de mantenerse actualizado en un entorno tecnológico en constante evolución.</p>
+Me destaco ser proactivo, autodidacta y analítico, resuelvo problemas eficazmente. Manejo metodologías ágiles como SCRUM, busco optimizar procesos y mejorar la eficiencia para el éxito del equipo.</p>
 
 <h2 align="left">🛠️ Lenguajes y Frameworks:</h2>
 
